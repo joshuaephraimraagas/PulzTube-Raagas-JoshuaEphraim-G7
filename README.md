@@ -1,7 +1,7 @@
 # PulzTube: Your Personal YouTube Growth and Content Management Assistant
 
 **Repository:** `PulzTube-Raagas-JoshuaEphraim-G7`  
-**Course:** IT317 (IM2) - Section G7  
+**Course:** IT317 (Project Management) - Section G9  
 **Proponent:** Joshua Ephraim C. Raagas  
 **Institution:** Cebu Institute of Technology - University (CIT-U)  
 **Instructor:** Joemarie Amparo  
